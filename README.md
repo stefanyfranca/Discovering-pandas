@@ -1,6 +1,3 @@
-# Discovering-pandas
-A dedicated space for mastering the Pandas library. This repository documents my journey in Data Science, focusing on data manipulation, cleaning, and exploratory analysis of CSV and JSON datasets.
-
 # 🐼 discovering-pandas
 
 This repository contains my practical exercises and projects using the **Pandas** library, the cornerstone of Data Analysis in Python.
