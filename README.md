@@ -4,7 +4,7 @@ This repository contains my practical exercises and projects using the **Pandas*
 
 As a Computer Science student and AI intern, I use this space to document my technical growth in handling real-world data.
 
-## 🚀Goals
+## Goals
 - Master DataFrames and Series.
 - Practice Data Cleaning (handling missing values, duplicates, and type casting).
 - Perform Exploratory Data Analysis (EDA) on RAG-related datasets.
