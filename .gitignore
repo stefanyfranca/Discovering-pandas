@@ -1,11 +1,3 @@
-# Ignore Virtual Environment
-venv/
-.env
-
-# Ignore Python Cache
+.venv/
 __pycache__/
 *.pyc
-
-# Ignore large/private data files
-*.csv
-*.json
