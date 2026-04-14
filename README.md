@@ -1,12 +1,7 @@
 # 🐼 discovering-pandas
 
-<a href="https://www.notion.so/Data-science-34206868c54f80a18f55f2ed666978a5?source=copy_link" target="_blank">
-  <img src="https://img.shields.io/badge/Notion-My_Learning_Roadmap-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Roadmap">
-</a>
-<img src="https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python&logoColor=white" alt="Python Version">
-<img src="https://img.shields.io/badge/Pandas-Latest-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
 
-This repository contains my practical exercises and projects using the **Pandas** library, the cornerstone of Data Analysis in Python. 
+This repository contains my practical exercises and projects using the **Pandas** library. 
 
 As a Computer Science student and AI intern, I use this space to document my technical growth in handling real-world data and building foundations for Data Science.
 
