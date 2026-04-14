@@ -4,9 +4,8 @@ This repository contains my practical exercises and projects using the **Pandas*
 
 As a Computer Science student and AI intern, I use this space to document my technical growth in handling real-world data.
 
-## 🚀 Learning Roadmap (Notion)
-I track my learning progress, challenges, and exercise checklists on Notion. 
 ## 🚀 Learning Roadmap
+I track my learning progress, challenges, and exercise checklists on Notion. 
 <a href="https://www.notion.so/Data-science-34206868c54f80a18f55f2ed666978a5?source=copy_link" target="_blank">
 <img src="https://img.shields.io/badge/Notion-My%20Study%20Roadmap-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Roadmap">
 </a>
