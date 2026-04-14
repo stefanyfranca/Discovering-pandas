@@ -6,7 +6,7 @@ As a Computer Science student and AI intern, I use this space to document my tec
 
 ## 🚀 Learning Roadmap (Notion)
 I track my learning progress, challenges, and exercise checklists on Notion. 
-[![Notion Roadmap](https://img.shields.io/badge/Notion-My%20Study%20Roadmap-333333?style=for-the-badge&logo=notion)]https://www.notion.so/Data-science-34206868c54f80a18f55f2ed666978a5?source=copy_link
+[![Notion Roadmap](https://www.notion.so/Data-science-34206868c54f80a18f55f2ed666978a5?source=copy_link)]
 
 ## Goals
 - Master DataFrames and Series.
