@@ -4,10 +4,14 @@ This repository contains my practical exercises and projects using the **Pandas*
 
 As a Computer Science student and AI intern, I use this space to document my technical growth in handling real-world data.
 
+## 🚀 Learning Roadmap (Notion)
+I track my learning progress, challenges, and exercise checklists on Notion. 
+- [**Access my Pandas Study Board here**]https://www.notion.so/Global-Flights-Airports-Airlines-34206868c54f8078ad76cc25fe012def?source=copy_link
+
 ## Goals
 - Master DataFrames and Series.
 - Practice Data Cleaning (handling missing values, duplicates, and type casting).
-- Perform Exploratory Data Analysis (EDA) on RAG-related datasets.
+- Perform Exploratory Data Analysis (EDA) on real-world datasets (Flights, Airports, and Sales).
 
 ## Skills Practiced:
 - **Data Loading:** Reading `.csv` and `.json` files efficiently.
